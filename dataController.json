@@ -1,20 +1,20 @@
 {
-"adsactive":true,
+"adsactive":false,
 "cpalink":"https://www.google.com/",
-"cpaactive":true,
-"mtitle1":"title1",
-"mtitle2":"title2",
-"mtitle3":"title3",
-"mtitle4":"title4",
-"mtitle5":"title5",
+"cpaactive":false,
+"mtitle1":"See Reward 1",
+"mtitle2":"See Reward 2",
+"mtitle3":"See Reward 3",
+"mtitle4":"See Reward 4",
+"mtitle5":"See Reward 5",
 "fblink":"https://www.google.com/",
 "playstorelink":"https://www.google.com/",
 "instgramlink":"https://www.google.com/",
-"content1":"1There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-"content2":"2There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-"content3":"3There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-"content4":"4There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-"content5":"5There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-"img":"images/img1.png"
+"content1":"According to Justin Duino (via CBS), managing editor of How-To Geek, people who click on the link are directed to a fake Amazon survey. It entices individuals to enter their credit card information for shipping purposes and offers free watches and other gifts as a reward. However, it is all a scam.",
+"content2":"Another person shared the text she received, captioning the photo: \"PSA: For some reason it looks like many SCAM/HOAX emails & texts are being sent and targeting people ... Please don’t click on any links from 'Amazon' or 'PayPal' your information will most likely be hacked. Be careful!\"",
+"content3":"With fraudulent individuals looking to gain access to your personal information, protect yourself from these online hackers by conducting some research or reaching out to the company before you \"click.\" ",
+"content4":"As a rule of thumb, think before you click. One Twitter user offered some advice for people who receive emails from corporations, writing: \"The phishing email scam artists have gotten a little better, yet they still can't hide their email addresses, folks, so make sure you check email addresses from the sender before you click on any links.",
+"content5":"\"When you dig into it, it\'s asking you to sign up for a trial to the company where they\'ll charge you almost $100 a month,\" he explained.",
+"img":"images/img11.png"
 
 }
